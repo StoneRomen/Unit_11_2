@@ -1,0 +1,11 @@
+* {
+    margin: 50px;
+    padding: 5px;
+    
+}
+
+#textColor {
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+}
